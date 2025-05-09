@@ -5,3 +5,4 @@
 ##### the h5 title
 ###### the h6 title
 change the index.md
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
